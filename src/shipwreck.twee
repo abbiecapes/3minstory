@@ -1,0 +1,16 @@
+:: StoryData
+{
+    "ifid": "D4A67CCF-D414-4F58-893C-9B6BA14695B9",
+    "format": "SugarCube",
+    "format-version": "2.36.1"
+}
+:: StoryTitle
+shipwrecked
+
+:: Start
+You are looking at wrecked ship on the beach
+
+look at thing
+look at other thing
+
+:: p
