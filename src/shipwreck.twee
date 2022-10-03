@@ -1,16 +1,21 @@
 :: StoryData
 {
-    "ifid": "D4A67CCF-D414-4F58-893C-9B6BA14695B9",
+    "ifid": "2B2C3B48-1579-4C2F-9B02-DFBEDFFA4784",
     "format": "SugarCube",
     "format-version": "2.36.1"
 }
+
 :: StoryTitle
-shipwrecked
+Shipwrecked
 
 :: Start
-You are looking at wrecked ship on the beach
+You are looking at an enormous shipwrecked vessel on a deserted beach.
 
-look at thing
-look at other thing
+Look at the [[port]] side of the ship
+[[Look at the starboard side of the ship|starboard]]
 
-:: p
+:: port
+You're looking to the left side of the ship
+
+:: starboard
+You're looking at the right side of the ship
