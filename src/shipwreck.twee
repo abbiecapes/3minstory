@@ -6,16 +6,16 @@
 }
 
 :: StoryTitle
-Shipwrecked
+Shipwrecked!!
 
 :: Start
-You are looking at an enormous shipwrecked vessel on a deserted beach.
+You are staring at an enormous shipwrecked vessel on a deserted beach.
 
 Look at the [[port]] side of the ship
 [[Look at the starboard side of the ship|starboard]]
 
 :: port
-You're looking to the left side of the ship
+You're looking to the leftward side of the ship
 
 :: starboard
 You're looking at the right side of the ship
